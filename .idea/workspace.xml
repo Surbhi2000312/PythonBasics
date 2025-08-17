@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09eaf8b0-e0bc-4c47-89d2-80acca978aae" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/class_attr_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/private_public.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/super_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
-    </list>
+    <list default="true" id="09eaf8b0-e0bc-4c47-89d2-80acca978aae" name="Changes" comment="Second commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +75,7 @@
       <updated>1755428787860</updated>
       <workItem from="1755428788877" duration="14000" />
       <workItem from="1755428913564" duration="1100000" />
-      <workItem from="1755430032231" duration="5569000" />
+      <workItem from="1755430032231" duration="5607000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -92,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755429424696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit">
+      <option name="closed" value="true" />
+      <created>1755441368551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755441368551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonBasics$class_attr_change.coverage" NAME="class_attr_change Coverage Results" MODIFIED="1755441334096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
